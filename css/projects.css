@@ -5,7 +5,7 @@
  Version:       1.0.0
 */
 
-/* -------------------------------- 
+/* --------------------------------
 // DEFAULTS
 -------------------------------- */
 .project,
@@ -19,7 +19,7 @@
   background-color:rgba(255,255,255,1);
 }
 
-/* -------------------------------- 
+/* --------------------------------
 // WORKSHARE - ACCESS RESTRICTIONS
 -------------------------------- */
 .project-access-restrictions,
@@ -34,16 +34,16 @@
   background-image:none;
 }
 .casestudy.project-access-restrictions {
-  
+
 }
 .project-access-restrictions .hero-case:before {
-  background-image:url(http://marcelodavanzo.com/nat/wp-content/themes/davanzo/img/projects/access-restrictions/icon-left.svg);
+  background-image:url(../img/projects/access-restrictions/icon-left.svg);
 }
 .project-access-restrictions .hero-case:after {
-  background-image:url(http://marcelodavanzo.com/nat/wp-content/themes/davanzo/img/projects/access-restrictions/icon-right.svg);
+  background-image:url(../img/projects/access-restrictions/icon-right.svg);
 }
 
-/* -------------------------------- 
+/* --------------------------------
 // WORKSHARE - STATUS LABELS
 -------------------------------- */
 .project-status-labels,
@@ -58,16 +58,16 @@
   background-image:none;
 }
 .casestudy.project-status-labels {
-  
+
 }
 .project-status-labels .hero-case:before {
-  background-image:url(http://marcelodavanzo.com/nat/wp-content/themes/davanzo/img/projects/status-labels/icon-left.svg);
+  background-image:url(../img/projects/status-labels/icon-left.svg);
 }
 .project-status-labels .hero-case:after {
-  background-image:url(http://marcelodavanzo.com/nat/wp-content/themes/davanzo/img/projects/status-labels/icon-right.svg);
+  background-image:url(../img/projects/status-labels/icon-right.svg);
 }
 
-/* -------------------------------- 
+/* --------------------------------
 // WORKSHARE - MOBILE COMMENTS
 -------------------------------- */
 .project-mobile-comments,
@@ -82,16 +82,16 @@
   background-image:none;
 }
 .casestudy.project-mobile-comments {
-  
+
 }
 .project-mobile-comments .hero-case:before {
-  background-image:url(http://marcelodavanzo.com/nat/wp-content/themes/davanzo/img/projects/mobile-comments/icon-left.svg);
+  background-image:url(../img/projects/mobile-comments/icon-left.svg);
 }
 .project-mobile-comments .hero-case:after {
-  background-image:url(http://marcelodavanzo.com/nat/wp-content/themes/davanzo/img/projects/mobile-comments/icon-right.svg);
+  background-image:url(../img/projects/mobile-comments/icon-right.svg);
 }
 
-/* -------------------------------- 
+/* --------------------------------
 // WORKSHARE - FILTERS
 -------------------------------- */
 .project-filters,
@@ -106,10 +106,10 @@
   background-image:none;
 }
 .casestudy.project-filters {
-  
+
 }
 
-/* -------------------------------- 
+/* --------------------------------
 // MEDIA QUERIES
 -------------------------------- */
 @media screen and (max-width:1024px){
