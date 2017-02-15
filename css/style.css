@@ -1307,28 +1307,6 @@ i.icon {
     }
 
 /* --------------------------------
-// CUSTOM SCROLLBAR
--------------------------------- */
-::-webkit-scrollbar {
-  width:15px;
-  height:15px;
-}
-  /* Track */
-  ::-webkit-scrollbar-track {
-    background:#FEF0F2;
-  }
-  /* Handle */
-  ::-webkit-scrollbar-thumb {
-    background:#f06376;
-  }
-  ::-webkit-scrollbar-thumb:hover {
-    background:#DC596B;
-  }
-  ::-webkit-scrollbar-thumb:window-in {
-    background:#DC596B;
-  }
-
-/* --------------------------------
 // SELECTION COLORS
 -------------------------------- */
 ::selection {

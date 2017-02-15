@@ -316,7 +316,7 @@ ul {
 .logo {
   width: 100px;
   height: 100px;
-  background: url(icons/512.png) center no-repeat;
+  background: url(../icons/512.png) center no-repeat;
   background-size: cover;
 }
   .no-flexbox .logo {
