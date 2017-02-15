@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>Dribbble sign in</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="128" cy="128" r="128"></circle>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="256" height="256" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Dribbble-sign-in" stroke="#FFFFFF">
+            <use id="Oval" mask="url(#mask-2)" stroke-width="20" xlink:href="#path-1"></use>
+            <path d="M128.9763,123.459066 L168.292033,84.143333 L171.827567,87.678867 L132.511834,126.9946 L171.827567,166.310333 L168.292033,169.845867 L128.9763,130.530134 L89.660567,169.845867 L86.125033,166.310333 L125.440766,126.9946 L86.125033,87.678867 L89.660567,84.143333 L128.9763,123.459066 Z" id="Combined-Shape" stroke-width="5"></path>
+        </g>
+    </g>
+</svg>

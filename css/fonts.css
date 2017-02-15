@@ -1,0 +1,57 @@
+/*
+ Description:   Marcelo Davanzo
+ Author:        Marcelo Davanzo
+ Author URI:    http://www.marcelodavanzo.com
+ Version:       1.0.0
+*/
+
+@font-face {
+    font-family:'Circular';
+    src:url('../fonts/CircularStd-Light.eot');
+    src:url('../fonts/CircularStd-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/CircularStd-Light.woff') format('woff'),
+        url('../fonts/CircularStd-Light.ttf') format('truetype'),
+        url('../fonts/CircularStd-Light.svg#CircularStd-Light') format('svg');
+    font-weight:200;
+    font-style:normal;
+}
+@font-face {
+    font-family:'Circular';
+    src:url('../fonts/CircularStd-Book.eot');
+    src:url('../fonts/CircularStd-Book.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/CircularStd-Book.woff') format('woff'),
+        url('../fonts/CircularStd-Book.ttf') format('truetype'),
+        url('../fonts/CircularStd-Book.svg#CircularStd-Book') format('svg');
+    font-weight:400;
+    font-style:normal;
+}
+@font-face {
+    font-family:'Circular';
+    src:url('../fonts/CircularStd-Medium.eot');
+    src:url('../fonts/CircularStd-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/CircularStd-Medium.woff') format('woff'),
+        url('../fonts/CircularStd-Medium.ttf') format('truetype'),
+        url('../fonts/CircularStd-Medium.svg#CircularStd-Medium') format('svg');
+    font-weight:500;
+    font-style:normal;
+}
+@font-face {
+    font-family:'Circular';
+    src:url('../fonts/CircularStd-Bold.eot');
+    src:url('../fonts/CircularStd-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/CircularStd-Bold.woff') format('woff'),
+        url('../fonts/CircularStd-Bold.ttf') format('truetype'),
+        url('../fonts/CircularStd-Bold.svg#CircularStd-Bold') format('svg');
+    font-weight:600;
+    font-style:normal;
+}
+@font-face {
+    font-family:'Circular';
+    src:url('../fonts/CircularStd-Black.eot');
+    src:url('../fonts/CircularStd-Black.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/CircularStd-Black.woff') format('woff'),
+        url('../fonts/CircularStd-Black.ttf') format('truetype'),
+        url('../fonts/CircularStd-Black.svg#CircularStd-Black') format('svg');
+    font-weight:700;
+    font-style:normal;
+}
